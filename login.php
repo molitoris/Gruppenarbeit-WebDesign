@@ -11,7 +11,7 @@
 		
 		
 	// database connection start
-		$_db_host = 'localhost';
+		$_db_host = '';
 		$_db_hostname = '';
 		$_db_password = '';
 		$_db_database = '';	
